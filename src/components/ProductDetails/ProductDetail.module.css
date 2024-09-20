@@ -1,0 +1,19 @@
+.btn{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 70%;
+    border-radius: 10%;
+    -webkit-border-radius: 20%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+    background-color: #1abc9c;
+    color: white;
+    -webkit-border-radius: 10%;
+    transition: 1s  ;
+    -webkit-transition: 1s  ;
+    -moz-transition: 1s  ;
+    -ms-transition: 1s  ;
+    -o-transition: 1s  ;
+   
+}
